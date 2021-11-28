@@ -30,7 +30,7 @@ body{
 }
 
 .container{
-    padding: 1.25rem;
+    padding: 0.5rem 1.25rem 0.5rem;
     background-color: var(--card-BG);
     border-radius: 0.5rem;
     margin-bottom: 1rem;
@@ -108,7 +108,7 @@ body{
 .container .creator{
     display: flex;
     align-items: center;
-    justify-content: start;
+    justify-content: flex-start;
     padding-top: 2rem;
 }
 
