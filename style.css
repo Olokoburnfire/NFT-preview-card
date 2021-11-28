@@ -69,12 +69,12 @@ body{
     transform: translate(-50%, -50%);
 }
 
-.container h1 {
+.container a {
     color: var(--White);
     margin: 1rem 0.5rem 0.5rem 0;
 }
 
-.container a h1{
+a {
     text-decoration:none:
 }
 
