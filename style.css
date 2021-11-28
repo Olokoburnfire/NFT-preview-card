@@ -74,11 +74,11 @@ body{
     margin: 1rem 0.5rem 0.5rem 0;
 }
 
-.container h1 a{
+.container a{
     text-decoration:none:
 }
 
-.container h1:hover{
+.container a:hover{
     color: var(--Cyan);
     cursor: pointer;
 }
@@ -127,9 +127,10 @@ body{
 
 .container .creator #creator a{
     text-decoration: none;
+    color:var(--White);
 }
 
-.container .creator #creator span:hover{
+.container .creator #creator span a:hover{
     color: var(--Cyan);
     cursor: pointer;
 }
